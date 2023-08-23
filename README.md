@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=![logo_TorreFuerte2](https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db) alt="Logo" width="100">
+    <img src=https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db alt="Logo" width="100">
     <h1>Título del Proyecto</h1>
 </div>
 
