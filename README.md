@@ -1,14 +1,6 @@
-<div style="background-image: url(![logo_TorreFuerte](https://github.com/Normando1945/Normando1945.github.io/assets/62081230/5d3b3772-abe1-43b1-8ca9-f0601e4a9e8e)), url('logo_TorreFuerte3.png'); background-size: auto 150px, auto 150px; background-repeat: no-repeat, no-repeat; background-position: left top, right top; width: 100%; height: 150px; background-color: #fdc30a;">
-            <div class="container position-relative px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-md-10 col-lg-8 col-xl-7">
-                        <div class="site-heading">
-                            <span class="subheading" style="font-weight: bold;">MSc. Ing. Carlos Andrés Celi Sánchez</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div align="center">
+    <img src=![logo_TorreFuerte2](https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db) alt="Logo" width="100">
+    <h1>Título del Proyecto</h1>
 </div>
 
 
