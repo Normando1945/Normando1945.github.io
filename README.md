@@ -11,8 +11,6 @@
 
 >##### Year:                   May - 2023
 
-![SIEMENS](https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif)
-
 ## General overview
 
 Welcome to this dedicated repository where I present the draft of the opening chapter of my forthcoming book, centered on the intricate domain of undergraduate structural dynamics.
@@ -24,4 +22,6 @@ The primary objective here is to transform complex theoretical mathematics into 
 It's important to note that this draft of the first chapter isn't intended to be a standalone guide. Instead, it complements traditional educational resources, bolstering the foundational knowledge students acquire in their classrooms. For a deep and nuanced grasp of the subject, revisiting the esteemed pages of dedicated structural dynamics literature remains crucial. Coupled with rigorous classroom instruction, the insights from such comprehensive readings will undeniably elevate a learner's expertise.
 
 Embark on this enlightening journey with us, and may it pave the way for your academic and professional milestones in structural dynamics
+
+![SIEMENS](https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif)
 
