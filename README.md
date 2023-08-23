@@ -7,6 +7,6 @@
 
 >##### Year:                   May - 2023
 
-![SIEMENS]([[https://myoctocat.com/assets/images/base-octocat.svg](https://blogs.sw.siemens.com/simcenter/shock-response-designing-for-the-full-spectrum/)](https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif))
+![SIEMENS](https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif)
 
 Welcome to my Linear and Non-linear Structural Analysis repository. Specializing in structures impacted by events like earthquakes, it offers academic codes rooted in mathematical analysis. Each structure tells a story; our goal is to decipher it. Explore, adapt, and share feedback
