@@ -1,7 +1,8 @@
 <div align="center">
-    <img src=https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db width="100">
+    <img src="https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db">
     <h1>Brief Summary of Undergraduate Structural Dynamics</h1>
 </div>
+
 
 
 >##### Author:                 [Msc. Ing. Carlos Andrés Celi Sánchez](https://www.researchgate.net/profile/Carlos-Celi).
