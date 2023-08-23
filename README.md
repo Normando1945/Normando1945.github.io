@@ -24,7 +24,7 @@ It's important to note that this draft of the first chapter isn't intended to be
 Embark on this enlightening journey with us, and may it pave the way for your academic and professional milestones in structural dynamics
 
 <div align="center">
-    <img src= "https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif" alt="Alt Text" width="425" alt="SIEMENS"/ >
+    <img src= "https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif" alt="Alt Text" alt="SIEMENS"/ >
     <p><a href="https://blogs.sw.siemens.com/simcenter/shock-response-designing-for-the-full-spectrum/">SIEMENS</a></p>
 </div>
 
