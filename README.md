@@ -24,6 +24,6 @@ It's important to note that this draft of the first chapter isn't intended to be
 Embark on this enlightening journey with us, and may it pave the way for your academic and professional milestones in structural dynamics
 
 <div align="center">
-    <img src= "https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif)">
+    <img src= "https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif">
 </div>
 
