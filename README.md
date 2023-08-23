@@ -1,6 +1,5 @@
 ## Brief Summary of Undergraduate Structural Dynamics
 
-
 >##### Author:                 [Msc. Ing. Carlos Andrés Celi Sánchez](https://www.researchgate.net/profile/Carlos-Celi).
 
 >##### Course:                 Structural Dynamics
