@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
     <img src="[logo_TorreFuerte.png](https://github.com/Normando1945/Normando1945.github.io/assets/62081230/2aeb61d3-56be-4e56-a13b-34b8bc7f88d3)" alt="Logo" width="100">
     <h1>Título del Proyecto</h1>
 </div>
