@@ -5,7 +5,7 @@
 
 
 
->##### Author:                 [Msc. Ing. Carlos Andrés Celi Sánchez](https://www.researchgate.net/profile/Carlos-Celi). & [Phd(c). MSc. Ing. José Poveda]
+>##### Author:                 [Msc. Ing. Carlos Andrés Celi Sánchez](https://www.researchgate.net/profile/Carlos-Celi). & Phd(c). MSc. Ing. José Poveda (www.torrefuerte.com)
 
 >##### Course:                 Structural Dynamics
 
