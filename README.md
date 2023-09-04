@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db">
-    <h1>Brief Summary of Undergraduate Structural Dynamics</h1>
+    <h1>Brief Overview of Undergraduate Structural Dynamics for Engineers</h1>
 </div>
 
 
