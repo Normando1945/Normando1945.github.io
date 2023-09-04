@@ -18,7 +18,7 @@
 
 ## General Overview
 
-Welcome to this dedicated repository where I present the draft of the opening chapter of my forthcoming book, centered on the intricate domain of undergraduate structural dynamics.
+Welcome to this dedicated repository. Primarily serving as a proof of concept, I present a draft of the opening chapter from my forthcoming book centered on the intricate domain of undergraduate structural dynamics.
 
 Our journey does not aim to replicate the exhaustive details presented in some of the field's seminal works. For those familiar with authors such as Chopra, Mario Paz, Cloth & Penzien, and others, you'll undoubtedly recognize the depth and rigor with which they address concepts and mathematical foundations in structural dynamics. Instead of merely reiterating these extensive insights, this repository and the accompanying book carve out a unique path.
 
