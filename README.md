@@ -16,6 +16,9 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=social&logo=google)](https://scholar.google.com.ec/citations?hl=es&user=yR4Gz7kAAAAJ)
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
 
+Online-Chapter 1.
+
+
 ## General Overview
 
 Welcome to this dedicated repository. Primarily serving as a proof of concept, I present a draft of the opening chapter from my forthcoming book centered on the intricate domain of undergraduate structural dynamics.
