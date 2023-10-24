@@ -19,17 +19,24 @@
 
 [![Online-Chapter 1](https://img.shields.io/badge/Web%20Page-Cap1_draft-blue)](https://normando1945.github.io/Cap1_draft_DE_Carlos_Celi.html)
 
-## General Overview
+<div style="margin-left:100px; margin-right:100px; margin-top:40px; text-indent:40px" align="justify">
 
-Welcome to this dedicated repository. Primarily serving as a proof of concept, I present a draft of the opening chapter from my forthcoming book centered on the intricate domain of undergraduate structural dynamics.
+ <div style="display: flex; align-items: flex-start;">
+   <img src=![Chapter1_portada](https://github.com/Normando1945/Normando1945.github.io/assets/62081230/c5595380-f71b-419f-b5ab-772fb749e1ce) width="300" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.6); margin-right: 20px;"/>
+   <div style="text-align: justify;">
 
-Our journey does not aim to replicate the exhaustive details presented in some of the field's seminal works. For those familiar with authors such as Chopra, Mario Paz, Cloth & Penzien, and others, you'll undoubtedly recognize the depth and rigor with which they address concepts and mathematical foundations in structural dynamics. Instead of merely reiterating these extensive insights, this repository and the accompanying book carve out a unique path.
+   ***
+   
+  <h2 style="text-align: left; font-size: 25px; font-weight: bold;">General Overview</h2>
 
-The primary objective here is to transform complex theoretical mathematics into simpler discrete mathematical codifications, providing concise summaries of the key concepts in dynamic structures. This serves as an invaluable tool for students navigating the vast world of structural dynamics. With a blend of vital concepts and illustrative Python code examples, readers will gain insights into the core mechanics of both single-degree-of-freedom **(SDOF)** and multi-degree-of-freedom **(MDOF)** dynamic systems. The emphasis is firmly on structural engineering applications, positioning this as an invaluable resource for those delving deeper into this discipline.
+   ---
 
-It's important to note that this draft of the first chapter isn't intended to be a standalone guide. Instead, it complements traditional educational resources, bolstering the foundational knowledge students acquire in their classrooms. For a deep and nuanced grasp of the subject, revisiting the esteemed pages of dedicated structural dynamics literature remains crucial. Coupled with rigorous classroom instruction, the insights from such comprehensive readings will undeniably elevate a learner's expertise.
+  Welcome to this presentation of the draft for the opening chapter of my upcoming book, titled **"Structural Engineering: Dynamics, Seismic Solution, and AI Integration."** This chapter delves into the intricate realm of undergraduate structural dynamics. This endeavor is not meant to mirror the exhaustive details laid out in some of the field's seminal literature. If you're familiar with works from esteemed authors such as **Chopra**, **Mario Paz**, **Cloth & Penzien**, among others, you'll be aware of the profound depth and rigor they bring to the underlying concepts and mathematical foundations of structural dynamics. Rather than merely echoing their profound insights, this book and the initial chapter provided here chart a distinctive course.
 
-Embark on this enlightening journey with us, and may it pave the way for your academic and professional milestones in structural dynamics
+  The chief aim is to distill intricate theoretical mathematics into more accessible discrete mathematical frameworks, offering clear outlines of pivotal concepts in dynamic structures. This proves indispensable for students traversing the expansive realm of structural dynamics. By intertwining essential theories with illustrative **Python code samples**, readers will unlock understanding of the fundamental mechanics underpinning both single-degree-of-freedom **SDOF** and multi-degree-of-freedom **MDOF** dynamic systems. The focus remains unwaveringly on applications within structural engineering, positioning this as a prized asset for those immersing themselves in the field. It's vital to understand that this draft of the initial chapter isn't designed to serve as an isolated guide. Instead, it acts in tandem with conventional educational tools, reinforcing the bedrock knowledge students garner in academic settings. For a nuanced and comprehensive grasp of the domain, turning to the venerable tomes of dedicated structural dynamics literature is imperative. When combined with in-depth classroom learning, the revelations from such extensive studies will unquestionably refine a scholar's proficiency. I invite you to join me on this illuminating expedition, and I hope it lays the foundation for your scholastic and professional achievements in structural dynamics.
+  </div>
+ </div>
+</div>
 
 <div align="center">
     <img src= "https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2022/07/gif-of-frequency-analysis.gif" alt="Alt Text" alt="SIEMENS"/ >
