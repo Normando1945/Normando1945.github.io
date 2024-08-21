@@ -8,12 +8,21 @@
 >##### Author:                 [Msc. Ing. Carlos Andrés Celi Sánchez](https://www.researchgate.net/profile/Carlos-Celi). & [Phd(c). MSc. Ing. José Poveda](https://www.torrefuerte.com)
 
 
-## **You can find me on**
+## :earth_americas: **You can find me on**
+
 [![Web Page](https://img.shields.io/badge/Web%20Page-caceli.net-blue)](http:caceli.net)
 [![GitHub Carlos Celi](https://img.shields.io/github/followers/Normando1945?label=follow&style=social)](https://github.com/Normando1945)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=social&logo=researchgate)](https://www.researchgate.net/profile/Carlos-Celi)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=social&logo=google)](https://scholar.google.com.ec/citations?hl=es&user=yR4Gz7kAAAAJ)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@CCeli1945)
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
+
+
+* If you found this free repository useful and enjoyable, please consider supporting us with a donation. Your contribution helps us continue developing and maintaining free software.
+
+<a href='https://ko-fi.com/H2H111V2R3' target='_blank'>
+    <img src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' alt='Support Me on Ko-fi' style='width: 15%; height: auto; border:0;'>
+</a>
 
 ## General Overview
 
